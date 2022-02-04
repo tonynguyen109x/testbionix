@@ -1,0 +1,26 @@
+{
+  "name": "bionix",
+  "version": "1.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "bootstrap": "^4.6.0",
+    "bootstrap-vue": "^2.21.2",
+    "core-js": "^3.8.3",
+    "nuxt": "^2.14.12",
+    "vue-backtotop": "^1.6.1",
+    "vue-carousel": "^0.18.0",
+    "vue-cool-lightbox": "^2.7.1",
+    "vue-toastification": "^1.7.11"
+  },
+  "devDependencies": {
+    "fibers": "^5.0.0",
+    "sass": "^1.32.6",
+    "sass-loader": "^10.1.1"
+  }
+}
